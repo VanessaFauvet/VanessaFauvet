@@ -5,7 +5,7 @@ Actuellement en reconversion professionnelle après 15 ans dans le secrétariat,
 ![Les Stats GitHub de Vanessa](https://github-readme-stats.vercel.app/api?username=VanessaFauvet&show_icons=true&theme=dracula)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaFauvet&repo=github-readme-stats&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaFauvet&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
