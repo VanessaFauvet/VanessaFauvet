@@ -6,3 +6,5 @@ Actuellement en reconversion professionnelle après 15 ans dans le secrétariat,
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=VanessaFauvet&show_icons=true&theme=dracula" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VanessaFauvet&theme=onedark)](https://github.com/VanessaFauvet/github-profile-trophy)
