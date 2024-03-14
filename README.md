@@ -2,4 +2,4 @@ Actuellement en reconversion professionnelle après 15 ans dans le secrétariat,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/VanessaFauvet/github-readme-stats)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=VanessaFauvet&show_icons=true)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=VanessaFauvet&show_icons=true&theme=radical)
