@@ -1,6 +1,5 @@
 Actuellement en reconversion professionnelle après 15 ans dans le secrétariat, je suis actuellement la formation Développeur Wordpress via Openclassrooms après avoir terminé celle de webmaster chez ESECAD
 
-<p>Languages and Tools</p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,wordpress)](https://skillicons.dev)
 
 <a href="https://github.com/VanessaFauvet/github-readme-stats">
