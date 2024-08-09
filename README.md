@@ -2,7 +2,7 @@ Actuellement en reconversion professionnelle après 15 ans dans le secrétariat,
 
 - Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,wordpress,php,javascript,figma)](https://skillicons.dev)
 
 - Stats
 
