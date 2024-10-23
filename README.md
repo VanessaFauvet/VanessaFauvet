@@ -3,7 +3,7 @@ Je poursuis mon apprentissage via divers cours en ligne
 
 - Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,wordpress,php,javascript,figma, github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,wordpress,php,javascript,figma)](https://skillicons.dev)
 
 - Stats
 
